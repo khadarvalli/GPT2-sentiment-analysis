@@ -1,5 +1,6 @@
 # GPT2-sentiment-analysis
 OpenAi's GPT-2 is a Transformer model blah blah blah... <br>
+[Medium Article here](https://link.medium.com/Ux2lA4S8h2) <br>
 Here's how you train it.
 
  1. Download as zip
