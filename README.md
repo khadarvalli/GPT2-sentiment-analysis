@@ -8,6 +8,8 @@ Here's how you train it.
 <br>
  3. Yeah that's it.
 
+(update: using max's new code https://github.com/minimaxir/aitextgen it's way faster, and using the smaller model is probably better for this small task, just 2000 iterations and it's at 0.03 loss, pretty fucking good if you ask me)
+
 Now that it's set up, you should format your prompts like this:
 
     // your prompt here ||
