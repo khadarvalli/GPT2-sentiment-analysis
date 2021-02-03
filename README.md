@@ -34,4 +34,4 @@ Why didn't I use the full model? Because there's no way that my average consumer
 It's trained on 50 Positive and 50 Negative samples from the Stanford movie reviews data-set. Which I had to hand write because my script to just do it automatically to make a bigger set didn't work and I wasn't bouta waste four hours on a script that'll do something that I'll do in one. (that's the sentiment50.txt in the files). <br>
 For usage rights refer to license.txt
 
-by [@spronkoid](https://twitter.com/spronkoid)
+
